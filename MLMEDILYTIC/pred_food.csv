@@ -1,0 +1,503 @@
+Food Name,Glycemic Index,Suitable for Diabetes
+Apple,39,1
+Banana,51,1
+Orange,42,1
+Strawberries,40,1
+Blueberries,53,1
+Watermelon,76,1
+Pineapple,66,1
+Mango,51,1
+Grapes,46,1
+Avocado,15,1
+Tomato,15,1
+Carrot,47,1
+Broccoli,15,1
+Spinach,15,1
+Lettuce,15,1
+Cucumber,15,1
+Zucchini,15,1
+Bell Pepper,15,1
+Cauliflower,15,1
+Celery,15,1
+Eggplant,15,1
+Sweet Potato,70,1
+Brown Rice,68,1
+Quinoa,53,1
+Oats,55,1
+Whole Wheat Bread,69,1
+Salmon,0,1
+Chicken Breast,0,1
+Lean Beef,0,1
+Turkey Breast,0,1
+Eggs,0,1
+Almonds,0,1
+Walnuts,0,1
+Peanuts,14,1
+Greek Yogurt,11,1
+Cottage Cheese,10,1
+Lentils,32,1
+Chickpeas,10,1
+Black Beans,30,1
+Brown Lentils,32,1
+Quinoa,53,1
+Spinach,15,1
+Kale,15,1
+Salmon,0,1
+Chicken Breast,0,1
+Lean Beef,0,1
+Turkey Breast,0,1
+Eggs,0,1
+Almonds,0,1
+Walnuts,0,1
+Peanuts,14,1
+Greek Yogurt,11,1
+Cottage Cheese,10,1
+Lentils,32,1
+Chickpeas,10,1
+Black Beans,30,1
+Brown Lentils,32,1
+Quinoa,53,1
+Spinach,15,1
+Kale,15,1
+Avocado,15,1
+Berries (Mixed),40,1
+Oranges,40,1
+Apples,39,1
+Grapes,59,1
+Watermelon,72,1
+Blueberries,53,1
+Strawberries,40,1
+Broccoli,10,1
+Cauliflower,15,1
+Green Beans,15,1
+Zucchini,15,1
+Carrots,39,1
+Tomatoes,15,1
+Cucumber,15,1
+Asparagus,15,1
+Mushrooms,10,1
+Cabbage,10,1
+Onions,10,1
+Garlic,30,1
+Lettuce,10,1
+Celery,15,1
+Bell Peppers,15,1
+Eggplant,15,1
+Cauliflower Rice,15,1
+Cabbage Soup,10,1
+Mushroom Soup,10,1
+Tomato Soup,38,1
+Chicken Soup,10,1
+Vegetable Soup,10,1
+Split Pea Soup,38,1
+Fish Tacos,35,1
+Turkey Chili,55,1
+Veggie Burger,15,1
+Chicken Salad,10,1
+Tuna Salad,10,1
+Greek Salad,15,1
+Caprese Salad,15,1
+Caesar Salad,15,1
+Grilled Chicken,0,1
+Salmon,0,1
+Shrimp Stir-Fry,15,1
+Roasted Turkey,0,1
+Grilled Salmon,0,1
+Baked Chicken,0,1
+Steamed Vegetables,15,1
+Quinoa Salad,53,1
+Cottage Cheese,10,1
+Greek Yogurt,11,1
+Almonds,0,1
+Walnuts,0,1
+Peanuts,13,1
+Chia Seeds,1,1
+Flaxseeds,1,1
+Oats,55,1
+Brown Rice,50,1
+Quinoa,53,1
+Lentils,29,1
+Kidney Beans,24,1
+Chickpeas,28,1
+Green Peas,48,1
+Broccoli,10,1
+Spinach,0,1
+Kale,0,1
+Asparagus,15,1
+Zucchini,15,1
+Cauliflower,15,1
+Artichokes,15,1
+Berries (mixed),40,1
+Apple,39,1
+Orange,40,1
+Grapes,53,1
+Watermelon,76,1
+Pineapple,66,1
+Strawberries,40,1
+Blueberries,53,1
+Avocado,10,1
+Cucumber,15,1
+Carrots,71,1
+Sweet Potato,70,1
+Quinoa Salad,53,1
+Eggplant,15,1
+Cabbage,10,1
+Radish,15,1
+Mushrooms,10,1
+Tomatoes,15,1
+Celery,15,1
+Lettuce,10,1
+Onions,10,1
+Garlic,30,1
+Ginger,15,1
+Cauliflower Rice,15,1
+Coconut Milk,41,1
+Almond Milk,25,1
+Soy Milk,25,1
+Greek Yogurt,11,1
+Chia Seeds,1,1
+Flaxseeds,50,1
+Oats,55,1
+Brown Rice,50,1
+Quinoa,53,1
+Lentils,32,1
+Black Beans,30,1
+Chickpeas,28,1
+Salmon,0,1
+Tuna,0,1
+Chicken Breast,0,1
+Turkey Breast,0,1
+Lean Beef,0,1
+Egg Whites,0,1
+Almonds,0,1
+Walnuts,15,1
+Peanuts,13,1
+Cashews,27,1
+Olive Oil,0,1
+Coconut Oil,0,1
+Avocado,0,1
+Blueberries,53,1
+Strawberries,40,1
+Raspberries,32,1
+Apples,39,1
+Oranges,40,1
+Grapes,59,1
+Watermelon,72,1
+Pineapple,66,1
+Kiwi,53,1
+Cottage Cheese,10,1
+Greek Salad,14,1
+Quinoa Salad,53,1
+Lentil Soup,44,1
+Chicken Salad,0,1
+Fish Tacos,70,1
+Zucchini Noodles,15,1
+Eggplant Parmesan,50,1
+Spinach Salad,0,1
+Stir-Fried Tofu,15,1
+Steamed Broccoli,15,1
+Cottage Cheese,10,1
+Mozzarella Cheese,0,1
+Eggplant,15,1
+Zucchini,15,1
+Bell Peppers,15,1
+Broccoli,15,1
+Spinach,15,1
+Kale,15,1
+Cauliflower,15,1
+Asparagus,15,1
+Brussels Sprouts,15,1
+Cabbage,15,1
+Celery,15,1
+Lettuce,15,1
+Quinoa,53,1
+Brown Rice,50,1
+Oats,55,1
+Whole Wheat Bread,69,1
+Barley,28,1
+Lentils,32,1
+Chickpeas,42,1
+Kidney Beans,24,1
+Black Beans,30,1
+Walnuts,15,1
+Almonds,0,1
+Cashews,25,1
+Peanuts,13,1
+Flaxseeds,0,1
+Chia Seeds,1,1
+Greek Yogurt,11,1
+Salmon,0,1
+Tuna,0,1
+Chicken Breast,0,1
+Lean Beef,0,1
+Turkey Breast,0,1
+Cod,0,1
+Shrimp,0,1
+Soy Milk,34,1
+Almond Milk,25,1
+Coconut Milk,41,1
+Avocado,15,1
+Olive Oil,0,1
+Flaxseed Oil,0,1
+Avocado Oil,0,1
+Chia Seed Oil,0,1
+Salmon Oil,0,1
+Apple,39,1
+Pear,38,1
+Orange,40,1
+Blueberries,53,1
+Strawberries,40,1
+Raspberries,32,1
+Watermelon,72,1
+Pineapple,59,1
+Kiwi,53,1
+Cucumber,15,1
+Celery,15,1
+Lettuce,0,1
+Spinach,0,1
+Kale,0,1
+Broccoli,15,1
+Cauliflower,15,1
+Carrots,41,1
+Green Beans,15,1
+Tomato,38,1
+Tofu,15,1
+Quorn,0,1
+Turkey Breast,0,1
+Lean Beef,0,1
+Lamb,0,1
+Pork Tenderloin,0,1
+Oats,55,1
+Brown Bread,85,1
+Whole Wheat Pasta,37,1
+Quinoa Pasta,53,1
+Cauliflower Rice,15,1
+Zucchini Noodles,15,1
+Cabbage,10,1
+Seaweed,35,1
+Miso Soup,35,1
+Green Tea,0,1
+Watermelon,72,1
+Berries (mixed),40,1
+Quorn,0,1
+Turkey Breast,0,1
+Lean Beef,0,1
+Lamb,0,1
+Pork Tenderloin,0,1
+Oats,55,1
+Brown Bread,85,1
+Whole Wheat Pasta,37,1
+Quinoa Pasta,53,1
+Cauliflower Rice,15,1
+Zucchini Noodles,15,1
+Seaweed,35,1
+Miso Soup,35,1
+Green Tea,0,1
+Watermelon,72,1
+Berries (mixed),40,1
+Grapes,59,1
+Oranges,45,1
+Apples,39,1
+Pears,38,1
+Avocado,15,1
+Coconut,45,1
+Olive Oil,0,1
+Almond Butter,0,1
+Greek Yogurt,11,1
+Quorn,0,1
+Turkey Breast,0,1
+Lean Beef,0,1
+Lamb,0,1
+Pork Tenderloin,0,1
+Oats,55,1
+Brown Bread,85,1
+Whole Wheat Pasta,37,1
+Quinoa Pasta,53,1
+Chapati,62,1
+Rice,73,1
+Dal,10,1
+Paneer,0,1
+Chicken Curry,0,1
+Fish Curry,0,1
+Vegetable Biryani,46,1
+Samosa,85,0
+Dosa,60,1
+Idli,85,1
+Pakora,75,0
+Mutton Curry,0,1
+Butter Chicken,0,1
+Palak Paneer,0,1
+Chicken Biryani,50,1
+Aloo Gobi,85,1
+Chana Masala,42,1
+Baingan Bharta,25,1
+Rajma Chawal,55,1
+Pani Puri,85,0
+Samosa Chaat,85,0
+Mango Lassi,41,1
+Gulab Jamun,65,0
+Masoor Dal,25,1
+Aloo Paratha,95,0
+Tandoori Roti,0,1
+Chicken Korma,0,1
+Pulao,65,1
+Gajar Halwa,85,1
+Malai Kofta,85,0
+Chicken Biryani,50,1
+Mango Pickle,40,0
+Pav Bhaji,65,1
+Coconut Chutney,35,1
+Rasgulla,86,0
+Matar Paneer,0,1
+Puri,85,0
+Chole Bhature,78,0
+Bhindi Masala,20,1
+Mango Chutney,55,1
+Mutton Biryani,50,1
+Puliyogare,65,1
+Kheer,85,0
+Rajma Masala,27,1
+Pav,65,1
+Veg Biryani,50,1
+Tandoori Chicken,0,1
+Methi Paratha,35,1
+Chicken Curry,0,1
+Baigan Masala,20,1
+Malai Paneer,0,1
+Dahi Vada,85,0
+Prawn Curry,0,1
+Gobi Manchurian,65,0
+Chicken Kebab,0,1
+Vegetable Curry,0,1
+Raita,30,1
+Kadai Paneer,0,1
+Vegetable Pulao,65,1
+Chicken Tikka,0,1
+Palak Paneer,15,1
+Medu Vada,70,0
+Fish Curry,0,1
+Paneer Tikka,15,1
+Veg Cutlet,65,1
+Chicken Biryani,50,1
+Rasam,25,1
+Upma,55,1
+Lemon Rice,50,1
+Shahi Tukda,65,0
+Rajma Chawal,27,1
+Kadhi Pakora,60,1
+Aloo Gobi,40,1
+Samosa,85,0
+Rajasthani Dal,25,1
+Kachori,90,0
+Pongal,70,1
+Gulab Jamun,70,0
+Vada Pav,80,0
+Butter Chicken,0,1
+Dhokla,85,1
+Aloo Paratha,35,1
+Pani Puri,85,0
+Matar Paneer,20,1
+Bhindi Masala,15,1
+Pav Bhaji,70,0
+Chicken Biryani,50,1
+Dosa,50,1
+Paneer Butter Masala,15,1
+Fish Fry,0,1
+Chole Bhature,50,0
+Tandoori Chicken,0,1
+Mutton Biryani,50,1
+Kheer,65,1
+Chicken Curry,0,1
+Pulao,65,1
+Gobi Manchurian,55,1
+Masoor Dal,30,1
+Mushroom Curry,10,1
+Rava Upma,55,1
+Chicken Korma,0,1
+Rajma Masala,27,1
+Aloo Tikki,85,0
+Butter Naan,70,0
+Shahi Paneer,20,1
+Dahi Vada,50,0
+Baingan Bharta,15,1
+Malai Kofta,25,1
+Pesarattu,35,1
+Vegetable Biryani,50,1
+Chicken Tikka Masala,0,1
+Rava Idli,65,1
+Vegetable Korma,25,1
+Kadai Paneer,20,1
+Uttapam,55,1
+Vegetable Pulao,60,1
+Chicken Curry,0,1
+Methi Thepla,45,1
+Palak Paneer,20,1
+Pani Puri,85,0
+Aloo Paratha,70,0
+Chicken 65,0,1
+Chana Masala,42,1
+Vada Pav,65,0
+Mutton Rogan Josh,0,1
+Papdi Chaat,65,0
+Malabar Parotta,75,0
+Fish Curry,0,1
+Gajar Halwa,70,1
+Kadhi Pakora,45,1
+Rasgulla,65,1
+Kheer,65,1
+Paneer Tikka,20,1
+Matar Paneer,35,1
+Pav Bhaji,55,0
+Chicken Biryani,50,1
+Dosa,50,1
+Lassi,25,1
+Rajma Chawal,27,1
+Chole Bhature,50,0
+Hummus,6,1
+Falafel,30,1
+Tabbouleh,25,1
+Shawarma,20,1
+Moutabal,12,1
+Mandi,45,1
+Kabsa,50,1
+Fatayer,30,1
+Manakish,45,1
+Lamb Kofta,0,1
+Labneh,4,1
+Kunafa,75,0
+Shish Taouk,0,1
+Shawarma Wrap,20,1
+Mansaf,40,1
+Foul Medames,40,1
+Lamb Shawarma,20,1
+Laban,4,1
+Muhallabia,25,1
+Chicken Mandi,45,1
+Kibbeh,30,1
+Samboosa,80,0
+Mutton Biryani,50,1
+Mango Juice,55,1
+Kofta,0,1
+Makbous,55,1
+Lamb Ouzi,40,1
+Fattoush,25,1
+Mansaf,40,1
+Kibbeh Nayyeh,0,1
+Falafel Wrap,30,1
+Labneh Manakish,40,1
+Arayes,50,1
+Kunafa,75,0
+Baklava,55,0
+Karak Tea,30,1
+Kabsa,50,1
+Sambousek,45,1
+Mujadara,35,1
+Shakshuka,50,1
+Lentil Soup,35,1
+Foul Sandwich,40,1
+Chicken Shawarma,20,1
+Harira Soup,40,1
+Lamb Kabsa,50,1
+Maamoul,68,0
+Baba Ganoush,10,1
+Za'atar Manakish,55,1
